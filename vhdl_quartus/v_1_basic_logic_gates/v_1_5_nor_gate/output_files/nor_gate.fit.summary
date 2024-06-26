@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sat Jun 22 17:14:44 2024
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : nor_gate
+Top-level Entity Name : nor_gate
+Family : MAX V
+Device : 5M40ZM64C4
+Timing Models : Final
+Total logic elements : 1 / 40 ( 3 % )
+Total pins : 3 / 30 ( 10 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

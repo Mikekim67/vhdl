@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/mux_2x1.vhd
+source_file = 1, C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/tb_mux_2x1.vhd
+source_file = 1, C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/db/mux_2x1.cbx.xml
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = mux_2x1
+instance = comp, \s~I\, s, mux_2x1, 1
+instance = comp, \d0~I\, d0, mux_2x1, 1
+instance = comp, \d1~I\, d1, mux_2x1, 1
+instance = comp, \z~0\, z~0, mux_2x1, 1
+instance = comp, \z~I\, z, mux_2x1, 1

@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder_only/full_adder.vhd
+source_file = 1, C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder_only/tb_full_adder.vhd
+source_file = 1, C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder_only/db/full_adder_only.cbx.xml
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder_only/half_adder.vhd
+design_name = full_adder
+instance = comp, \a_in~I\, a_in, full_adder, 1
+instance = comp, \c_in~I\, c_in, full_adder, 1
+instance = comp, \b_in~I\, b_in, full_adder, 1
+instance = comp, \U1|s~0\, U1|s~0, full_adder, 1
+instance = comp, \c_out~0\, c_out~0, full_adder, 1
+instance = comp, \s_out~I\, s_out, full_adder, 1
+instance = comp, \c_out~I\, c_out, full_adder, 1

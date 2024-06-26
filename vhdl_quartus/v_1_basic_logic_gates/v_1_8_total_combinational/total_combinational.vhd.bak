@@ -1,0 +1,12 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity total_combinational is 
+	port(A, B, C : in std_logic; 
+			F1, F2 : out std_logic);
+end total_combinational;
+
+architecture design of total_combinational is
+begin
+	F1 <=(A and B and C) or ((A or B or C) and (not ((A and B) or (A and C) or (B and C))));
+	F2 <= (A and B) or (A and C) or (B and C);

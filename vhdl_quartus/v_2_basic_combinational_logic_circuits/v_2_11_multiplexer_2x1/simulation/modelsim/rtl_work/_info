@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\vhdl_quartus\v_2_basic_combinational_logic_circuits\v_2_11_multiplexer_2x1\simulation\modelsim
+Emux_2x1
+Z1 w1719239869
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\altera\13.1\vhdl_quartus\v_2_basic_combinational_logic_circuits\v_2_11_multiplexer_2x1\simulation\modelsim
+Z5 8C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/mux_2x1.vhd
+Z6 FC:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/mux_2x1.vhd
+l0
+L4
+V0:noDTAeLam_<jPPWEg^e0
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1719240643.170000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/mux_2x1.vhd|
+Z10 !s107 C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/mux_2x1.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 l]@ShFkHBcj`^jDnc?lmS3
+!i10b 1
+Aarc
+R2
+R3
+DEx4 work 7 mux_2x1 0 22 0:noDTAeLam_<jPPWEg^e0
+l11
+L9
+VN6A48Q9=m5OE?amfMcl8j0
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 o_<^fhz<:Z9Kj[?>0^:]11
+!i10b 1
+Etb_mux_2x1
+Z13 w1719240578
+R2
+R3
+R4
+Z14 8C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/tb_mux_2x1.vhd
+Z15 FC:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/tb_mux_2x1.vhd
+l0
+L4
+VojG03KRlWl5YDIfNCXgIj1
+!s100 LanFKFb<ZCa>1I_MgVEjP0
+R7
+31
+!i10b 1
+Z16 !s108 1719240643.356000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/tb_mux_2x1.vhd|
+Z18 !s107 C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_11_multiplexer_2x1/tb_mux_2x1.vhd|
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 10 tb_mux_2x1 0 22 ojG03KRlWl5YDIfNCXgIj1
+l21
+L8
+VSHVXE7DaHX=kQW2EU6edH1
+!s100 48_J;6aT66oK^4`I@<OF22
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12

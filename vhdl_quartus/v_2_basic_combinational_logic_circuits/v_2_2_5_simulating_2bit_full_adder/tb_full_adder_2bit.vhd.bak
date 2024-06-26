@@ -1,0 +1,22 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity tb_full_adder_4bit is
+	port( S : out std_logic_vector(4 downto 0));
+end tb_full_adder_4bit;
+
+architecture sim of tb_full_adder_4bit is
+
+component full_adder_4bit
+	port(	a, b : in std_logic_vector(3 downto 0);
+			   s : out std_logic_vector(4 downto 0));
+end component;
+
+	signal A,B : std_logic_vector(3 downto 0);
+
+begin
+	A<="0101", "1111" after 20 ns, "0011" after 40 ns;
+	B<="1100", "1111" after 20 ns, "0110" after 40 ns;
+	
+	U0 : full_adder_4bit port map(a=>A, b=>B, s=>S);
+end;	
