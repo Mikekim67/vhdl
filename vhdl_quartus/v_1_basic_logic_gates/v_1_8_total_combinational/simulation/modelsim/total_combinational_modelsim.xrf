@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/altera/13.1/vhdl_quartus/v_1_basic_logic_gates/v_1_8_total_combinational/total_combinational.vhd
+source_file = 1, C:/altera/13.1/vhdl_quartus/v_1_basic_logic_gates/v_1_8_total_combinational/db/total_combinational.cbx.xml
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = total_combinational
+instance = comp, \A~I\, A, total_combinational, 1
+instance = comp, \C~I\, C, total_combinational, 1
+instance = comp, \B~I\, B, total_combinational, 1
+instance = comp, \F1~0\, F1~0, total_combinational, 1
+instance = comp, \F2~0\, F2~0, total_combinational, 1
+instance = comp, \F1~I\, F1, total_combinational, 1
+instance = comp, \F2~I\, F2, total_combinational, 1

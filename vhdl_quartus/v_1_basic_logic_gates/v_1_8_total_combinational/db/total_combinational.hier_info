@@ -1,0 +1,21 @@
+|total_combinational
+A => F1.IN0
+A => F1.IN0
+A => F2.IN0
+A => F1.IN0
+A => F1.IN0
+B => F1.IN1
+B => F1.IN1
+B => F2.IN0
+B => F1.IN1
+B => F1.IN1
+C => F1.IN1
+C => F1.IN1
+C => F2.IN1
+C => F2.IN1
+C => F1.IN1
+C => F1.IN1
+F1 <= F1.DB_MAX_OUTPUT_PORT_TYPE
+F2 <= F2.DB_MAX_OUTPUT_PORT_TYPE
+
+

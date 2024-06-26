@@ -1,0 +1,18 @@
+|full_adder_mux
+a_in => s0.IN0
+b_in => s0.IN1
+b_in => mux_2x1:U0.d0
+c_in => s_out.IN1
+c_in => mux_2x1:U0.d1
+s_out << s_out.DB_MAX_OUTPUT_PORT_TYPE
+c_out << mux_2x1:U0.z
+
+
+|full_adder_mux|mux_2x1:U0
+d0 => z0.IN0
+d1 => z1.IN0
+s => z1.IN1
+s => z0.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+

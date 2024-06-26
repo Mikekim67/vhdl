@@ -1,0 +1,145 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\vhdl_quartus\v_2_basic_combinational_logic_circuits\v_2_2_full_adder\simulation\modelsim
+Efull_adder
+Z1 w1719209982
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\altera\13.1\vhdl_quartus\v_2_basic_combinational_logic_circuits\v_2_2_full_adder\simulation\modelsim
+Z5 8C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder/full_adder.vhd
+Z6 FC:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder/full_adder.vhd
+l0
+L4
+VLQnW_n]<L@L>K@Dh`5R1N2
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1719211751.815000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder/full_adder.vhd|
+Z10 !s107 C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder/full_adder.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 fBm^WkcTA=Z5C>3zk46dT3
+!i10b 1
+Aarc
+R2
+R3
+DEx4 work 10 full_adder 0 22 LQnW_n]<L@L>K@Dh`5R1N2
+l23
+L9
+VJAkzXmodLk=jdPC[knInd2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 lm^bKU5H__LZkJQHFbX^W3
+!i10b 1
+Ehalf_adder
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L33
+Vk]2gBJDYWEAmI__8WL<cj3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 C`7MjD5Y6:Qk>:zMj[;Ve3
+!i10b 1
+Aarc
+R2
+R3
+DEx4 work 10 half_adder 0 22 k]2gBJDYWEAmI__8WL<cj3
+l39
+L38
+VFQkd]BF?N>>mHFjW3`OJ=3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 zJ;nZO67bYF3kg0>bPoPP0
+!i10b 1
+Eor_gate
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L47
+VHn2_CE6FjH^FQhBIU8KZ21
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 ^90m:]YKWC8Udb?[jm]`[1
+!i10b 1
+Aarc
+R2
+R3
+DEx4 work 7 or_gate 0 22 Hn2_CE6FjH^FQhBIU8KZ21
+l53
+L52
+VPPVYa_P_o@72;ia?m?0T;0
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 ^kzMVmk=`e6V?f0lTdK;N2
+!i10b 1
+Etb_full_adder
+Z13 w1719211730
+R2
+R3
+R4
+Z14 8C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder/tb_full_adder.vhd
+Z15 FC:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder/tb_full_adder.vhd
+l0
+L4
+Vkk0TkakEUBX51DaA<PeH;0
+!s100 ^[RniWQnf1e1BNd;MDbb>0
+R7
+31
+!i10b 1
+Z16 !s108 1719211752.634000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder/tb_full_adder.vhd|
+Z18 !s107 C:/altera/13.1/vhdl_quartus/v_2_basic_combinational_logic_circuits/v_2_2_full_adder/tb_full_adder.vhd|
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 13 tb_full_adder 0 22 kk0TkakEUBX51DaA<PeH;0
+l36
+L9
+Ve3TMTJ]lYIFLmLaF=oKcJ3
+!s100 _S<fHiPj^UJ?a7EjYlnQj3
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12
